@@ -1,0 +1,22 @@
+Pipeline {
+  Agent Any
+    
+    Stages {
+      Stage("build"){
+        Steps{
+        
+        }
+      }
+      Stage("Test"){
+        Steps{
+        
+        }
+      }
+      Stage("deploy"){
+        Steps{
+        
+        }
+      }
+    }
+    
+}
